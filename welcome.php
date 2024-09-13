@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="my-project">
+    <header>
+        <nav>
+            <div class="logo">
+                Learn <span>All</span> Coding
+            </div>
+            <div class="menu">
+                <a href="">Home</a>
+                <a href="">About US</a>
+                <a href="">Contact Us</a>
+                <a href="">Disclaimer</a>
+                <a href="">Terms $ Condition</a>
+            </div>
+            <div class="icon">
+                <a href="dashboard.php">dashboard</a>
+                <a href="signup.php">Sign-Up</a>
+                <a href="index.html">Logout</a>
+            </div>
+        </nav>
+<!---------------------Pending Section-------------------------->
+        <!---<section class="h-text">
+            <h1>The World Wide Web</h1>
+            <input type="text" placeholder="Search-Here">
+            <button type="submit">Search</button>
+        </section>
+        -------------------Pending Section-------------------------->
+    </header>
+    <div class="links">
+        <a href="">Portfolio</a>
+        <a href="">Overview</a>
+        <a href="">Services</a>
+        <a href="">Visits</a>
+        <a href="">Members</a>
+        <a href="">Teams</a>
+        <a href="">Products</a>
+        <a href="">Area's</a>
+        <a href="">Timings</a>
+        <a href="">Projects</a>
+    </div>
+    <section class="content">
+        <h1>Lorem, ipsum dolor sit ametonsectetur. <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;consectetur adipisicing elit.</h1>
+            <button>Welcome My Web</button>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Ab magnam reprehenderit ipsam voluptatum quaerat <br>consectetur earum voluptatem quae, perspiciatis <br>numquam ut vel aspernatur eaque <br>velit sint beatae eos, harum expedita?</p>
+            <img src="img9.jpg" alt="business">
+    </section>
+    <section class="bottom">
+        <h1>Meet-Up Our Clients</h1>
+    </section>
+    <section class="portfolio">
+        <h1>This Is Meetup Our Clients</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis et esse ab. <br>Natus incidunt, obcaecati optio cumque eum soluta. <br>Magni maiores iure aliquid voluptatem aut <br>officia non tempora in quae!</p>
+        <img src="img5.jpg" alt="">
+        <h1>This Is Meeting Our Clients</h1>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br>Illum voluptas ex harum nobis quaerat cum voluptatibus porro vel dolore sunt. <br>Harum tempora quas, aliquid praesentium eius veniam! Nulla, <br>mollitia voluptatum.
+        Incidunt magni quas sit dicta sequi quam <br>cupiditate laboriosam deleniti eum tempore sed quae eligendi fugiat in quia earum, <br>eveniet tempora reiciendis nesciunt perspiciatis voluptate itaque <br>quos nihil corporis. Illum.
+        Recusandae quam dolor vitae saepe? <br>Autem dolores dicta vitae, veritatis temporibus <br>aliquid culpa nesciunt obcaecati, distinctio quo labore cum nulla dolorum! Laborum <br>alias quos neque ipsam dicta unde incidunt aut!
+        Ab dolorum at, <br>quaerat cumque cupiditate, quos nisi in exercitationem, doloremque minus modi <br>itaque unde eligendi fugiat perferendis quam <br>ipsum molestias vel ullam! <br>Voluptas consequuntur veritatis eaque iure blanditiis placeat!<br>
+        Voluptatem asperiores facere, sequi, provident optio dolorem <br>consequuntur hic ex odio dolore qui alias eius, repellendus officiis deleniti in. <br>Corrupti minima adipisci impedit nostrum error deleniti ut, <br>maxime rerum consectetur?</p>
+        <img src="img6.jpg" alt="">
+        <h1>This Is Meeting Our Clients</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis et esse ab. <br>Natus incidunt, obcaecati optio cumque eum soluta. <br>Magni maiores iure aliquid voluptatem aut <br>officia non tempora in quae!</p>
+        <img src="img7.jpg" alt="">
+    </section>
+    <div class="logo1">
+        <h1>Learn <span> All </span>Coding </h1>
+    </div>
+    <footer>
+        <div class="news-letter">
+            <!------------------start news letter------------------>
+            <div>
+                <h2>Subscribe Our News Letter</h2>
+                <p>We`Re a team of non-cynics who truly care for our work</p>
+            </div>
+            <!------------------End news letter------------------>
+            <!------------------start------------------>
+            <div class="ntext">
+                <label>
+                    <input type="text" name="" placeholder="Enter Your Email">
+                    <button>Subscribe</button>
+                </label>
+            </div>
+            <!------------------start------------------>
+        </div>
+        <!--------------------------------End Of Member Info Footer------------------------------------->
+        <!------------------Footer Contact---------------------->
+        <div class="f-contact">
+            <!--------------------First Div In My Web------------------>
+            <div>
+                <h1>Information</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, <br>adipisicing elit. Esse, voluptates sint nesciunt sapiente
+                    <br>dolores odit exercitationem, <br>adipisci ratione incidunt <br>explicabo tenetur nemo ad!</p>
+                    <a href="https://www.facebook.com/rizwanshaikh" target="_blank">
+                        <i class="fa-brands fa-facebook"></i>
+                    </a>
+                    
+                    <a href="https://www.instagram.com/YourProfile" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                    
+                    <a href="https://wa.me/YourWhatsAppNumber" target="_blank">
+                        <i class="fa-brands fa-whatsapp"></i>
+                    </a>
+                    
+                    <a href="https://twitter.com/YourProfile" target="_blank">
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+                    
+            </div>
+            <!--------------------Second Div In My Web------------------>
+            <div>
+                <h1>Useful Links</h1>
+                <p>About Us</p>
+                <p>Gallery</p>
+                <p>Blog Posts</p>
+                <p>Pricing Plans</p>
+            </div>
+            <!--------------------Third Div In My Web------------------>
+            <div>
+                <h1>Details</h1>
+                <p>Photographers</p>
+                <p>Gallery</p>
+                <p>about</p>
+                <p>Pricing Plans</p>
+            </div>
+            <!--------------------Fourth Div In My Web------------------>
+            <div>
+                <h1>Help & Support</h1>
+                <p>Privacy Policy</p>
+                <p>Terms & Condition</p>
+                <p>Blog Posts</p>
+                <p>Customer Care</p>
+            </div>
+        </div>
+    </footer>
+    <div class="copyright">&copy;"2024 All rights reserved. Unauthorized use or reproduction is prohibited. @rizwanshaikh"</div>
+</div>
+</body>
+</html>

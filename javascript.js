@@ -1,0 +1,1 @@
+alert("Are You Sure Read Privacy Policy & Terms And Condition");

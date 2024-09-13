@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(background.jpg) no-repeat center center/cover; /* बैकग्राउंड में इमेज */
+    height: 100vh; /* पूरी स्क्रीन को कवर करता है */
+    display: flex;
+    justify-content: center; /* कंटेंट को सेंटर में लाता है */
+    align-items: center; /* कंटेंट को वर्टिकली सेंटर करता है */
+    color: white; /* टेक्स्ट को सफेद बनाता है */
+}
+
+.otp-form {
+    background-color: rgba(0, 0, 0, 0.7); /* थोड़ा ट्रांसपेरेंट बैकग्राउंड */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #f1c40f;
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+input[type="email"], input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+input[type="email"]::placeholder, input[type="text"]::placeholder {
+    color: #f1f1f1;
+}
+
+.button {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #f1c40f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    font-size: 16px;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #d4ac0d;
+}
